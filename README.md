@@ -1,19 +1,3 @@
-# reast-webpack-bableasfdasdfasf
+# react-webpack-bableasfdasdfasf
 
-
-fasdf
-asd
-fdas
-f
-as
-df
-asdfdsaf
-asdf
-asd
-f
-sdaf
-asdf
-as
-df
-asd
-fasdfaf
+npm install react react-dom webpack babel babel-loader jsx-loader babel-core babel-preset-es2015 babel-cli css-loader style-loader  babel-preset-react mime
